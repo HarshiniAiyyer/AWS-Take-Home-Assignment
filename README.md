@@ -113,8 +113,3 @@ aws s3 sync s3://banktransactionskrnl1/detections/ "D:\takehome\bucket\s3_detect
 - [ ] Optional: Set up a job scheduler (not supported in CE)
 
 ---
-
-## 🧑‍💻 Author
-
-Harshini Aiyyer  
-[GitHub](https://github.com/HarshiniAiyyer) • [LinkedIn](https://linkedin.com/in/harshini-aiyyer)
