@@ -9,6 +9,8 @@ A data processing pipeline for ingesting and analyzing banking transaction data 
 This pipeline monitors transactional data in near real-time, splits it into chunks, logs them to AWS services, and performs pattern detection using Apache Spark (via Databricks).
 
 ---
+## Downloadables
+A downloadable zip file is present in the notebook as ```bucket```.
 
 ## 📌 Use Case
 
