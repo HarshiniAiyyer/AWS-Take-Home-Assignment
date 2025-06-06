@@ -1,4 +1,4 @@
-# 💳 Bank Transaction Pattern Detection System
+# 💳 Transaction Pattern Detection System
 
 A data processing pipeline for ingesting and analyzing banking transaction data to detect actionable patterns using PySpark on Databricks, AWS S3, and PostgreSQL.
 
